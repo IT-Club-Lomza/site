@@ -2,7 +2,7 @@
 baseurl = "https://example.com/"
 languageCode = "en"
 
-title = "Title"
+title = "IT Klub Łomża"
 theme = "triple-hyde"
 
 ## Hugo Built-in Features
