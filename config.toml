@@ -16,14 +16,14 @@ theme = "triple-hyde"
 
 ## Site Settings
 [params]
-    author = "Author"
-    title = "IT Klub Łomża"
-    # description = "..."
-    #authorimage = "/img/hugo.png"
+    author = "IT Klub Łomża"
+    title = "Title"
+    description = "Jesteśmy w sali X.XX od godziny XX:XX"
+    authorimage = "/img/Ikona.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
-    logoimage = "/img/Ikona.png"
+    #logoimage = "/img/hugo.png"
     #copyright = "derme302"
     #since = 2023
     #license = "CC BY-SA 4.0"
@@ -60,12 +60,12 @@ theme = "triple-hyde"
 ## Social Accounts
 [params.social]
     github = "IT-Club-Lomza"
-    #instagram = "<username>"
-    #linkedin = "<username>"
-    #twitter = "<username>"
-    #facebook = "<username>"
-    #stackoverflow = "<username>"
-    #telegram = "<username>"
+ #   instagram = "<username>"
+  #  linkedin = "<username>"
+   # twitter = "<username>"
+   # facebook = "<username>"
+   # stackoverflow = "<username>"
+   # telegram = "<username>"
     # orcid = "<xxxx-xxxx-xxxx-xxxx>"
     #email = "your-email@example.com"
     #mastodon = "<username>"
@@ -75,7 +75,7 @@ theme = "triple-hyde"
 
 ## Main Menu
 [[menu.main]]
-    name = "Posts"
+    name = "Wiadomości"
     weight = 100
     identifier = "posts"
     url = "/posts/"
