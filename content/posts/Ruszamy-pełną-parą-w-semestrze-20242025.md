@@ -2,21 +2,17 @@
 title: "Ruszamy Pełną Parą W Semestrze 2024/2025"
 date: 2024-07-22T17:24:44+02:00
 lastmod: 2024-07-22T17:24:44+02:00
-tags : [ "dev", "hugo", "triple-hyde"]
-categories : [ "dev" ]
+tags : ["orgnizacja"]
+categories : [ "Wiadomości" ]
 layout: post
 highlight: false
 draft: false
 ---
 
-**Insert Lead paragraph here.**
+**Zgadza się**
 
-A augue nunc lacus auctor efficitur tempor placerat, dictum volutpat mi vitae viverra porta non sem, himenaeos senectus vivamus potenti cubilia sollicitudin. Curae cursus inceptos tincidunt magna mi nibh ad enim etiam, molestie eu quis primis hendrerit taciti phasellus. Feugiat ultricies dictumst iaculis potenti odio laoreet urna at, ultrices curae leo accumsan proin sem lobortis. 
+Tytuł się nie myli będziemy meczyć was i nas projektami głównie na początku semestru potem przystopujemy w miarę zbliżającej się sesji,
+i tak samo w semesrze letnim SPRINT! po czym zwolnimy do truchtu.
 
-## Heading 2
-
-Sollicitudin ornare odio blandit aenean enim lacus accumsan elementum vestibulum porta mauris lorem, ullamcorper class fermentum sem hendrerit ante augue penatibus scelerisque felis leo proin,ad nascetur venenatis sodales dignissim viverra suspendisse turpis convallis condimentum sapien.
-
-### Heading 3
-
-At quisque litora ullamcorper maecenas ultricies ut dignissim luctus curabitur, cras congue eget primis aliquam fringilla nulla dictum posuere, vestibulum sit magnis nisl praesent eros ipsum nunc. Ligula lacus ipsum orci aenean integer pharetra habitasse interdum, porttitor etiam hac feugiat placerat morbi posuere turpis leo, quam at amet gravida commodo fringilla erat.
+2024/2025 Pośwęcmy w większośći godot-owi potrzebujemy samowystrczlnej ekipy gotowej do autonomicznej pracy a że takie grupy nie istnieja to stworzymja sami
+dokłdnie te cechu będziemy wałkować w nadchdzacym semestrze, a żeby to w niedlekiej przyszłości móc zabrać się za większe projekty.

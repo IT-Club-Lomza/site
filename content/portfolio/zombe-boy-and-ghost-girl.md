@@ -1,17 +1,14 @@
 ---
 title: "Zombe Boy and Ghost Girl"
-date: 2024-07-22T17:20:57+02:00
-lastmod: 2024-07-22T17:20:57+02:00
-tags : [ "dev", "hugo", "triple-hyde"]
-categories : [ "dev" ]
-layout: post
-type:  "post"
-highlight: false
-draft: false
+description: "Ogień i woda w naszym wydaniu"
+link: https://github.com/htr3n/dera
+screenshot: Zombe-Boy-and-Ghost-Girl.png 
+date: '2018-06-21'
+layout: 'portfolio'
 ---
 
-**Insert Lead paragraph here.**
-
+**Ilink do wyminy.**
+link 
 A augue nunc lacus auctor efficitur tempor placerat, dictum volutpat mi vitae viverra porta non sem, himenaeos senectus vivamus potenti cubilia sollicitudin. Curae cursus inceptos tincidunt magna mi nibh ad enim etiam, molestie eu quis primis hendrerit taciti phasellus. Feugiat ultricies dictumst iaculis potenti odio laoreet urna at, ultrices curae leo accumsan proin sem lobortis. 
 
 ## Heading 2

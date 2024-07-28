@@ -3,21 +3,22 @@ title: "Pożegnanie Kevina"
 date: 2024-07-22T17:22:37+02:00
 lastmod: 2024-07-22T17:22:37+02:00
 linktitle: Pożegnanie Kevina
-tags : [ "dev", "hugo", "triple-hyde"]
-categories : [ "dev" ]
+tags : ["kevin",]
+categories : [ "Wiadomości" ]
 layout: post
 highlight: false
 draft: false
 ---
 
-**Insert Lead paragraph here.**
+**Drodzy Członkowie Klubu IT Łomża**
 
-A augue nunc lacus auctor efficitur tempor placerat, dictum volutpat mi vitae viverra porta non sem, himenaeos senectus vivamus potenti cubilia sollicitudin. Curae cursus inceptos tincidunt magna mi nibh ad enim etiam, molestie eu quis primis hendrerit taciti phasellus. Feugiat ultricies dictumst iaculis potenti odio laoreet urna at, ultrices curae leo accumsan proin sem lobortis. 
+Z wielką wdzięcznością i smutkiem żegnamy dziś Kevina, naszego mentora, który w ramach programu Fulbrighta poświęcił swój czas i wiedzę, aby wzbogacić naszą społeczność. Kevin nie tylko podzielił się z nami swoją pasją do komputer sience, ale także zainspirował nas do ciągłego doskonalenia się i uczenia przez praktykę.
 
-## Heading 2
 
-Sollicitudin ornare odio blandit aenean enim lacus accumsan elementum vestibulum porta mauris lorem, ullamcorper class fermentum sem hendrerit ante augue penatibus scelerisque felis leo proin,ad nascetur venenatis sodales dignissim viverra suspendisse turpis convallis condimentum sapien.
+Jego entuzjazm i zaangażowanie pozostawiły trwały ślad w naszych sercach i umysłach. Dzięki jego wysiłkom Klub IT Łomża odżył na nowo, a młodzi ambitni mają miejsce by  błyszczeć.
 
-### Heading 3
 
-At quisque litora ullamcorper maecenas ultricies ut dignissim luctus curabitur, cras congue eget primis aliquam fringilla nulla dictum posuere, vestibulum sit magnis nisl praesent eros ipsum nunc. Ligula lacus ipsum orci aenean integer pharetra habitasse interdum, porttitor etiam hac feugiat placerat morbi posuere turpis leo, quam at amet gravida commodo fringilla erat.
+Dziękujemy, Kevinie, za wszystkie inspirujące rozmowy, cenne lekcje i stawianie nam pizzy co spotkanie. Choć żegnamy Cię z ciężkim sercem, jesteśmy wdzięczni za wszystko, czego nas nauczyłeś.
+
+### Z wyrazami wdzięczności i szacunku
+### Wychowankowie Klubu IT Łomża
