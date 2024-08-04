@@ -1,7 +1,7 @@
 ---
 title: "Zombe Boy and Ghost Girl"
 description: "Ogień i woda w naszym wydaniu"
-link: https://github.com/htr3n/dera
+link: https://github.com/ciekawypl/Zajecia-Godot
 screenshot: Zombe-Boy-and-Ghost-Girl.png 
 date: '2018-06-21'
 layout: 'portfolio'
