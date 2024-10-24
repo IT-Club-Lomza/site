@@ -1,5 +1,5 @@
 ---
-title: "Ruszamy Pełną Parą W Semestrze 2024/2025"
+title: "Plany rozwoju klubu IT Łomża w semestrze 2024/2025"
 date: 2024-07-22T17:24:44+02:00
 lastmod: 2024-07-22T17:24:44+02:00
 tags : ["orgnizacja"]
@@ -9,10 +9,17 @@ highlight: false
 draft: false
 ---
 
-**Zgadza się**
+****
+Kevin Wang jest dla nas mentorem. Gdy opuścił Polskę, by dalej rozwijać swoje możliwości i karierę, to
+postanowiliśmy zrobić dokładnie to samo z naszym klubem.
 
-Tytuł się nie myli będziemy meczyć was i nas projektami głównie na początku semestru potem przystopujemy w miarę zbliżającej się sesji,
-i tak samo w semesrze letnim SPRINT! po czym zwolnimy do truchtu.
+Do tej pory dwóch najbardziej pracochłonnych programistów kształciło grupę chętnych z tego samego kierunku studiów i roku. Teraz chcielibyśmy otworzyć się na WAS. Na CIEBIE. Niezależnie od tego czy programowanie to dla ciebie nowość, czy jest to pierwsza rzecz którą robisz budząc się.
 
-2024/2025 Pośwęcmy w większośći godot-owi potrzebujemy samowystrczlnej ekipy gotowej do autonomicznej pracy a że takie grupy nie istnieja to stworzymja sami
-dokłdnie te cechu będziemy wałkować w nadchdzacym semestrze, a żeby to w niedlekiej przyszłości móc zabrać się za większe projekty.
+Wierzymy że razem wymieniając się naszą wiedzą i zainteresowaniami: stworzymy nowe przyjaźnie, zdobędziemy potrzebne w dzisiejszych czasach doświadczenie i przedewszystkim: wspomnienia na zawsze.
+
+Główny cel na 2024/2025:
+- nauczyć grupę programistów tworzyć gry wideo w 2D korzystając z silnika "Godot Engine".
+
+
+Widzimy się na kolejnym spotkaniu!
+Zespół klubu IT Łomża
