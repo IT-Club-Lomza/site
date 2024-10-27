@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin on IT Klub Łomża</title>
+    <link>http://localhost:1313/tags/kevin/</link>
+    <description>Recent content in Kevin on IT Klub Łomża</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Jul 2024 17:22:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kevin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pożegnanie Kevina</title>
+      <link>http://localhost:1313/posts/po%C5%BCegnanie-kevina/</link>
+      <pubDate>Mon, 22 Jul 2024 17:22:37 +0200</pubDate>
+      <guid>http://localhost:1313/posts/po%C5%BCegnanie-kevina/</guid>
+      <description>Drodzy Członkowie Klubu IT Łomża&#xA;Z wielką wdzięcznością i smutkiem żegnamy dziś Kevina, naszego mentora, który w ramach programu Fulbrighta poświęcił swój czas i wiedzę, aby wzbogacić naszą społeczność. Kevin nie tylko podzielił się z nami swoją pasją do komputer sience, ale także zainspirował nas do ciągłego doskonalenia się i uczenia przez praktykę.&#xA;Jego entuzjazm i zaangażowanie pozostawiły trwały ślad w naszych sercach i umysłach. Dzięki jego wysiłkom Klub IT Łomża odżył na nowo, a młodzi ambitni mają miejsce by błyszczeć.</description>
+    </item>
+  </channel>
+</rss>

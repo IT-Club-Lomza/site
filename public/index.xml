@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT Klub Łomża</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on IT Klub Łomża</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Jul 2024 17:24:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plany rozwoju klubu IT Łomża w semestrze 2024/2025</title>
+      <link>http://localhost:1313/posts/ruszamy-pe%C5%82n%C4%85-par%C4%85-w-semestrze-20242025/</link>
+      <pubDate>Mon, 22 Jul 2024 17:24:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/ruszamy-pe%C5%82n%C4%85-par%C4%85-w-semestrze-20242025/</guid>
+      <description>Kevin Wang jest dla nas mentorem. Gdy opuścił Polskę, by dalej rozwijać swoje możliwości i karierę, to postanowiliśmy zrobić dokładnie to samo z naszym klubem.&#xA;Do tej pory dwóch najbardziej pracochłonnych programistów kształciło grupę chętnych z tego samego kierunku studiów i roku. Teraz chcielibyśmy otworzyć się na WAS. Na CIEBIE. Niezależnie od tego czy programowanie to dla ciebie nowość, czy jest to pierwsza rzecz którą robisz budząc się.&#xA;Wierzymy że razem wymieniając się naszą wiedzą i zainteresowaniami: stworzymy nowe przyjaźnie, zdobędziemy potrzebne w dzisiejszych czasach doświadczenie i przedewszystkim: wspomnienia na zawsze.</description>
+    </item>
+    <item>
+      <title>Pożegnanie Kevina</title>
+      <link>http://localhost:1313/posts/po%C5%BCegnanie-kevina/</link>
+      <pubDate>Mon, 22 Jul 2024 17:22:37 +0200</pubDate>
+      <guid>http://localhost:1313/posts/po%C5%BCegnanie-kevina/</guid>
+      <description>Drodzy Członkowie Klubu IT Łomża&#xA;Z wielką wdzięcznością i smutkiem żegnamy dziś Kevina, naszego mentora, który w ramach programu Fulbrighta poświęcił swój czas i wiedzę, aby wzbogacić naszą społeczność. Kevin nie tylko podzielił się z nami swoją pasją do komputer sience, ale także zainspirował nas do ciągłego doskonalenia się i uczenia przez praktykę.&#xA;Jego entuzjazm i zaangażowanie pozostawiły trwały ślad w naszych sercach i umysłach. Dzięki jego wysiłkom Klub IT Łomża odżył na nowo, a młodzi ambitni mają miejsce by błyszczeć.</description>
+    </item>
+    <item>
+      <title>Symulator macierzy</title>
+      <link>http://localhost:1313/portfolio/symulator-macierzy/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/symulator-macierzy/</guid>
+      <description>link i obrz do wyminy/dodni&#xA;Symulator Macierzy&#xA;to bardzo fajny symulatro</description>
+    </item>
+    <item>
+      <title>Zombe Boy and Ghost Girl</title>
+      <link>http://localhost:1313/portfolio/zombe-boy-and-ghost-girl/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/zombe-boy-and-ghost-girl/</guid>
+      <description>Ilink do wyminy. link A augue nunc lacus auctor efficitur tempor placerat, dictum volutpat mi vitae viverra porta non sem, himenaeos senectus vivamus potenti cubilia sollicitudin. Curae cursus inceptos tincidunt magna mi nibh ad enim etiam, molestie eu quis primis hendrerit taciti phasellus. Feugiat ultricies dictumst iaculis potenti odio laoreet urna at, ultrices curae leo accumsan proin sem lobortis.&#xA;Heading 2 Sollicitudin ornare odio blandit aenean enim lacus accumsan elementum vestibulum porta mauris lorem, ullamcorper class fermentum sem hendrerit ante augue penatibus scelerisque felis leo proin,ad nascetur venenatis sodales dignissim viverra suspendisse turpis convallis condimentum sapien.</description>
+    </item>
+    <item>
+      <title>O Nas</title>
+      <link>http://localhost:1313/o-nas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/o-nas/</guid>
+      <description>Razem próbujemy kształcić się w sztukach natury informatyki współczesnej, dla przykładu developerstwo gier wideo. &amp;hellip;mamy też pizzę od czasu do czasu</description>
+    </item>
+  </channel>
+</rss>

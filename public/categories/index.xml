@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on IT Klub Łomża</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on IT Klub Łomża</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Jul 2024 17:24:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wiadomości</title>
+      <link>http://localhost:1313/categories/wiadomo%C5%9Bci/</link>
+      <pubDate>Mon, 22 Jul 2024 17:24:44 +0200</pubDate>
+      <guid>http://localhost:1313/categories/wiadomo%C5%9Bci/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

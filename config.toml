@@ -18,7 +18,7 @@ theme = "triple-hyde"
 [params]
     author = "IT Klub Łomża"
     title = "Title"
-    description = "Jesteśmy w sali X.XX od godziny XX:XX"
+    description = "Jesteśmy w każdy czwartek sala: B1.6 od godziny 14:00"
     authorimage = "/img/Ikona.png"
     dateformat = "Jan 2, 2006"
 

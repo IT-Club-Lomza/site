@@ -2,7 +2,7 @@
 title: "Plany rozwoju klubu IT Łomża w semestrze 2024/2025"
 date: 2024-07-22T17:24:44+02:00
 lastmod: 2024-07-22T17:24:44+02:00
-tags : ["orgnizacja"]
+tags : ["organizacja"]
 categories : [ "Wiadomości" ]
 layout: post
 highlight: false
