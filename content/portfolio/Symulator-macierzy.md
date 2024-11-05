@@ -1,13 +1,11 @@
 ---
 title: "Symulator macierzy"
-description: "Pierwsze kroki z Raylib"
+description: "Program do wykonywania obliczeń na macierzach"
 link: https://github.com/IT-Club-Lomza/SymulatorMacierzy 
 screenshot: Symulator-macierzy.png 
 date: '2018-06-21'
 layout: 'portfolio'
 ---
-link i obrz do wyminy/dodni
-
-**Symulator Macierzy**
-
-to bardzo fajny symulatro
+Program stworzony w całości przez:
+- ciekawypl
+- Odpluskwiacz
